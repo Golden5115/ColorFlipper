@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+
+nav{
+    
+    text-align: center;
+    margin-bottom: 300px;
+    background-color: black;
+    color: aliceblue;
+
+}
+
+.nav-center h1{
+    font-size: 40px;
+}
+
+.container{
+    text-align: center;
+}
+
+#btn{
+    height: 70px;
+    width: 100px;
+    border-radius: 24px;
+}
+
+button{
+    background-color: blue;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.container h2{
+    font-size: 50px;
+    font-weight: bolder ;
+}
